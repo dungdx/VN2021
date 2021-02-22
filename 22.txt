@@ -7,6 +7,7 @@ bbbb
 ccccff
 
 ffffff
+hhhhh
 
 =======
 resolve conflict
