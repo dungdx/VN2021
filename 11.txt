@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-dfdfd
-=======
-change from local repository
->>>>>>> Stashed changes
