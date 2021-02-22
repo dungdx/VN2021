@@ -4,7 +4,9 @@ gggggg
 <<<<<<< Updated upstream
 
 bbbb
-cccc
+ccccff
+
+ffffff
 
 =======
 resolve conflict
