@@ -1,4 +1,11 @@
 fdfdf
 fffffff
 gggggg
+<<<<<<< Updated upstream
 
+bbbb
+cccc
+
+=======
+resolve conflict
+>>>>>>> Stashed changes
