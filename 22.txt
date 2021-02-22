@@ -1,14 +1,4 @@
-fdfdf
-fffffff
+ddfdfdf
+fffffffddd
 gggggg
-<<<<<<< Updated upstream
-
-bbbb
-ccccff
-
-ffffff
-hhhhh
-mmmmmmm
-=======
-resolve conflict
->>>>>>> Stashed changes
+kkkkk
